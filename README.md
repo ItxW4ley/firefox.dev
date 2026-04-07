@@ -3,6 +3,13 @@
 </p>
 
 <h1 align="center">FireFox </h1>
+<p align="center"><strong>FireFox Bot</strong> is a Discord bot built for the Emergency Response: Liberty County community. This repository provides all relevant information and resources for using and developing the bot.</p>
+
+## Essential Links
+- [Bot Invitation](https://firefox.dev/invite/bot)
+- [Support Server](https://firefox.dev/invite/discord)
+- [Official Website](https://firefox.dev)
+- [Desktop Download](https://firefox.dev/download)
 
 
 ## Licensing
