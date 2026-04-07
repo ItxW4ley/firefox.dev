@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/firefoxlogo.png" alt="ERM Bot Logo">
+  <img src="assets/firefoxlogo.png" alt="FireFox Bot Logo">
 </p>
 
 <h1 align="center">FireFox </h1>
